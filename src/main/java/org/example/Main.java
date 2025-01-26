@@ -7,6 +7,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введи своё имя: ");
         String name = scanner.nextLine();
-        System.out.println("Здравствуйте, " + name + "!");
+        System.out.println("Привет, " + name + "!");
     }
 }
