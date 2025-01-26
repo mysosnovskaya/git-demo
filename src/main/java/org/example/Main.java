@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Введи свою фамилию:");
         String lastname = scanner.nextLine();
         System.out.println("Привет, " + name + " " + lastname + "!");
+        System.out.println("Добро пожаловать!");
     }
 }
